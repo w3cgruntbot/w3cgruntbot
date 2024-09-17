@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @w3cgruntbot
-- 👀 I’m interested in doing psuh on GitHub
+- 👀 I’m interested in doing push on GitHub w3c/
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me : contact plh at W3C
